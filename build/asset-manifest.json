@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4318bf4.css",
+    "main.js": "/static/js/main.20618dd5.js",
+    "static/js/787.d31d0afb.chunk.js": "/static/js/787.d31d0afb.chunk.js",
+    "static/media/bg_hero.png": "/static/media/bg_hero.9f407812e8d0d0fde773.png",
+    "static/media/img_about_us.png": "/static/media/img_about_us.c0fa4538bb7528b9193f.png",
+    "static/media/bg_ad.png": "/static/media/bg_ad.c9a025b2a3e87a81cd88.png",
+    "static/media/img_oregano_height.png": "/static/media/img_oregano_height.ae3b323d907d29b6eb4a.png",
+    "static/media/img_wildstone.png": "/static/media/img_wildstone.2fadb37f71f902fd7a49.png",
+    "static/media/img_mrParkinstons.png": "/static/media/img_mrParkinstons.8d588e74ba10cf516dcd.png",
+    "static/media/img_wish_stone_building.png": "/static/media/img_wish_stone_building.4db33090a1678c270d4b.png",
+    "index.html": "/index.html",
+    "main.d4318bf4.css.map": "/static/css/main.d4318bf4.css.map",
+    "main.20618dd5.js.map": "/static/js/main.20618dd5.js.map",
+    "787.d31d0afb.chunk.js.map": "/static/js/787.d31d0afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4318bf4.css",
+    "static/js/main.20618dd5.js"
+  ]
+}
